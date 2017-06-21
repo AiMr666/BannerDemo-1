@@ -1,8 +1,6 @@
 package com.android.test;
-
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-
 import com.android.test.banner.Banner;
 
 public class MainActivity extends AppCompatActivity {
