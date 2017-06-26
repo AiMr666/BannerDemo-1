@@ -3,7 +3,7 @@ package com.android.test;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
-
+//妹夫的，哈哈
 public class ImagePath {
     public static final String SERVER_IMAGE = "https://cs.keycoin.cn/";
 //    public static String[] IMAGES = {
